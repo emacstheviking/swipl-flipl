@@ -7,5 +7,5 @@
          (alt-ext (if (string= file-ext "pl") "plt" "pl"))
          (alt-file (convert-standard-filename
                     (concat alt-name "." alt-ext))))
-    (find-file alt-file)))
+    (find-file-other-window alt-file)))
 
