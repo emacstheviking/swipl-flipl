@@ -30,7 +30,7 @@ ladies too of course, I didn't invent that expression).
 ## Issues, Requests etc.
 
 Raise an issue. It has a few rough edges and quite soon I think I may
-have to make it a bit smarter about using an existing visible frame
+have to make it a bit smarter about using an existing visible window
 that may alreay have the "other" file in it as it currently uses
-default behaviours. I'd rather it flipped frames to the already
-visible file...feel free to contribute.
+default behaviours. I'd rather it flipped to the already visible file
+...feel free to contribute.
